@@ -1,4 +1,4 @@
-Yap Jia Qian's Persoonal Portfolio
+Yap Jia Qian's Personal Portfolio
 <!DOCTYPE HTML>
 <html>
 <body>
