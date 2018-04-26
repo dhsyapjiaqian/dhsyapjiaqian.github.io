@@ -10,18 +10,11 @@ h2
 }
 img
 {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    
 }
 p
 {
-  font-family:Impact, Charcoal, sans-serif
+  font-family:"Comic Sans MS", cursive, sans-serif
     color:#000000
 }
 body
