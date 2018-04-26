@@ -21,11 +21,6 @@ img
   opacity: 0.8;
     filter: alpha(opacity=80); /* For IE8 and earlier */
 }
-img.resize 
-{
-    width:540px; /* you can use % */
-    height: auto;
-}
 p
 {
   font-family:"Comic Sans MS", cursive, sans-serif
